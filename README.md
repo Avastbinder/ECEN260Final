@@ -10,5 +10,3 @@ In this final project, the goal of the project was to create a simple, non-adjus
 [DC demonstration video](https://youtube.com/shorts/DmYVAyezdVY?feature=share)
 
 [Technical details walkthrough video](https://youtu.be/SpuUPIfzl-I)
-
-Run project via Core\Src\main.c
