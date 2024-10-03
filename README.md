@@ -11,4 +11,4 @@ In this final project, the goal of the project was to create a simple, non-adjus
 
 [Technical details walkthrough video](https://youtu.be/SpuUPIfzl-I)
 
-Run project via core\src\main.c
+Run project via Core\Src\main.c
